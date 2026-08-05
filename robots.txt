@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /dashboard
+Disallow: /*.sql$
+Sitemap: https://serwisowetele.pl/sitemap.xml
